@@ -1,17 +1,15 @@
-# Galaxy: A Comprehensive Proxy Hub
+ # Galaxy: A Fully-Fledged Proxy Hub
 
-Welcome to the Galaxy repository! Below, you will find a form for inquiries regarding collaboration or permissions.
+Welcome to the Galaxy repository! Here you will  find a form for people who want to contribute or get permission to contribute in some way.
 
 ## Overview
 
-Galaxy was crafted using [Canva](https://www.canva.com/), in contrast to Universal, which was developed with traditional coding techniques. Galaxy serves as a comprehensive hub for proxies, games, and a multitude of resources, all accessible from a single website. We continually update our offerings to ensure a rich and engaging experience for our users.
+ Galaxy was created with the help of  [Canva](https://www.canva.com/), while Universal was created with the help of programming languages. It is a central place to find  proxies, games and many other resources on one website. We add new features on a regular basis to make  the experience as enjoyable as possible for the users of our website.
 
-Previously known as "BlueSquare," Galaxy underwent a rebranding to "MEGA SITE." This transition embodies the unification of various existing gaming hubs, such as Turkey and BlueSquare, along with numerous other platforms. This endeavor was made possible through the collaboration and support of contributors from these diverse websites. A special thanks goes to G, our most prominent member, for his exceptional work on [Turkey](https://turkeyisbackiguesswalmart.my.canva.site/), among others. 
+Galaxy was called  'BlueSquare' before it was renamed to 'MEGA SITE'. This change represents the combination of all the present  gaming hubs like Turkey and BlueSquare and many other platforms. This has only been made possible by the  help and collaboration of the contributors from these various websites. A very big thanks goes to G, our  biggest member for his great work on  [Turkey](https://turkeyisbackiguesswalmart.my.canva.site/) and many other sites.  I may not be able to reply to  everyone’s comments personally due to time constraints, but I appreciate every effort that has been made.
 
-Due to time constraints, I may not be able to acknowledge everyone individually, but your contributions are deeply appreciated.
+## Request  for Collaboration
 
-## Request for Collaboration
+To request permission to collaborate, please use the following form: [Collaboration     Form](https://forms.office.com/Pages/ResponsePage.aspx?id=U6z2wXdrtU2Uck8QTurJamjkHrHmcBZBrtwz61Rd555UMFJXSFAxM0xRQ1dLNzg4S0s3UFZUWUYwTS4u).
 
-If you are interested in joining forces, please fill out the following form for permission requests: [Collaboration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=U6z2wXdrtU2Uck8QTurJamjkHrHmcBZBrtwz61Rd555UMFJXSFAxM0xRQ1dLNzg4S0s3UFZUWUYwTS4u).
-
-Thank you for your interest in Galaxy!
+Thanks for your interest  in Galaxy!
